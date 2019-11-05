@@ -1,0 +1,4 @@
+First test Q OTA for whyred
+fixed mic for someone
+fixed pixelauncher
+added overlay for fingerprint(might work better)
