@@ -2,3 +2,18 @@ First test Q OTA for whyred
 fixed mic for someone
 fixed pixelauncher
 added overlay for fingerprint(might work better)
+
+Updated many blobs from Q (ADSP,Time,Media,Graphics,peripheral manager,perf stack,wfd)
+merged 4.4.199 to kernel
+config.fs and rootdir fixes and updates
+Fix WFD(can be buggy,for me working pretty good this Q stack
+dropped from tree ld.config(no needed anymore here)
+added WallpapersBReel2019
+qti-telephony-common updated from nokia DRG and patched for r9 standards
+use ipacm again from Q tag,fm radio also
+add dirac support
+probably fixed encryption stuff(nobody tested)
+dropped the creation of deprecated system_data folders 
+r14 and many derpfest source updates
+Xiaomeme parts added(thermal option wont work for now)
+CLEAN FLASH ONLY IF YOU ARE ON OLD AF BUILDS (all which wasn't r14 test)
