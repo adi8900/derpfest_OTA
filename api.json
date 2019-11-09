@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1572972232,
-      "filename": "AOSiP-10-DerpFest-Beta-whyred-20191105.zip",
+      "datetime": 1573285186,
+      "filename": "AOSiP-10-DerpFest-Beta-whyred-20191109-final.zip",
       "id": "aa3cfb5d86222ad5e0ada5b21a349e51602491e8",
       "romtype": "UNOFFICIAL",
-      "size": 1137868193 ,
-      "url": "https://sourceforge.net/projects/aosipderp-fest4whyred/files/AOSiP-10-DerpFest-Beta-whyred-20191105.zip/download",
+      "size":  1343221893,
+      "url": "https://sourceforge.net/projects/aosipderp-fest4whyred/files/AOSiP-10-DerpFest-Beta-whyred-20191109-final.zip/download",
       
       "version": "10"
     }
